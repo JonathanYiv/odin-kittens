@@ -8,7 +8,7 @@ Screenshot here...
 
 ## Pre-Project Thoughts
 
-...
+N/A.
 
 ## Post-Project Thoughts
 
